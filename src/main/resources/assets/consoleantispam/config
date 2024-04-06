@@ -1,0 +1,10 @@
+# Whether to show what will be blocked once the mod has been initialized. Useful for debugging.
+showinfo = false
+
+# Phrases to block.
+# This will block any line that contains any of the provided phrases.
+phrases = [ ]
+
+# Use Regex patterns to match things you don't want the console and logs to show.
+# You can use https://regex101.com/ to test your Regex
+regex = [ ]
